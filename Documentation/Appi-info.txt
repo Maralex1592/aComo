@@ -1,0 +1,4 @@
+https://www.getpostman.com/collections/17dbed0e34f8a0f2e1ad
+
+https://api.spoonacular.com/recipes/1003464/priceBreakdownWidget.json?apiKey=9ca844535c2041888320cac4efb3bb1e
+https://spoonacular.com/food-api/docs#Ingredient-Search
