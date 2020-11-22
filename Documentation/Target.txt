@@ -1,0 +1,6 @@
+Target
+
+- Create an application to list recipes
+- Show the recipes' ingredients 
+- Show ingredients's price
+- Show recipes' price
